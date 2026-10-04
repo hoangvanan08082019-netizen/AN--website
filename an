@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favorite Places</title>
+</head>
+
+<body>
+    <main>
+        <h1>My Favorite Places</h1>
+
+        <h2>Places I Want to Visit</h2>
+
+        <img
+            src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+            alt="A beautiful beach with blue water and a clear sky"
+            width="600"
+        >
+
+        <h2>My Top 3 Places</h2>
+
+        <ul>
+            <li>Ha Long Bay</li>
+            <li>Da Nang</li>
+            <li>Da Lat</li>
+        </ul>
+
+        <h2>Why I Like Traveling</h2>
+
+        <p>
+            Traveling gives me the opportunity to discover new places,
+            experience different cultures, and create memorable experiences.
+        </p>
+    </main>
+</body>
+</html>
